@@ -24,10 +24,10 @@ export default function BirthdayWish() {
         May your <strong>bug fixes be instant</strong>, your <strong>deployments be smooth</strong>, and your <strong>LeetCode streak stay unbroken</strong>! 🏆
       </p>
       <p className="mt-4 max-w-2xl text-lg sm:text-xl leading-relaxed bg-black/40 p-4 rounded-lg shadow-lg">
-        This year, I hope you <strong>rock your fresh style</strong>, keep your <strong>wavy curls flowing</strong>, and maybe even have that long-awaited <strong>confident conversation</strong> with your senior. 😉✨
+        This year, I hope you <strong>rock your fresh style</strong>, keep your <strong>wavy curls flowing</strong>
       </p>
       <p className="mt-4 max-w-2xl text-lg sm:text-xl leading-relaxed bg-black/40 p-4 rounded-lg shadow-lg">
-        May your <strong>burgers always be juicy</strong>, your <strong>dental checkups be cavity-free</strong>, and your <strong>Git commits always be meaningful</strong>! 🎂🔥
+        May your <strong>burgers always be juicy</strong>, your, and your <strong>Git commits always be meaningful</strong>! 🎂🔥
       </p>
       <p className="mt-4 max-w-2xl text-lg sm:text-xl leading-relaxed bg-black/40 p-4 rounded-lg shadow-lg">
         Here&apos;s to another year of innovation, growth, and <strong>badass projects</strong>. Keep being the <strong>legend you are</strong>! 🎈🎁🎊
