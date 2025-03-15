@@ -30,7 +30,7 @@ export default function BirthdayWish() {
         May your <strong>burgers always be juicy</strong>, your, and your <strong>Git commits always be meaningful</strong>! 🎂🔥
       </p>
       <p className="mt-4 max-w-2xl text-lg sm:text-xl leading-relaxed bg-black/40 p-4 rounded-lg shadow-lg">
-        Here&apos;s to another year of innovation, growth, and <strong>badass projects</strong>. Keep being the <strong>legend you are</strong>! 🎈🎁🎊
+        Here&apos;s to another year of innovation, growth, and <strong>badass projects</strong>. Keep being the <strong>legend you are This I added after to test the pipeline lets see</strong>! 🎈🎁🎊
       </p>
     </div>
   );
